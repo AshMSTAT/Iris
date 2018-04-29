@@ -1,1 +1,1 @@
-# DiamondClass
+# IrisClass
